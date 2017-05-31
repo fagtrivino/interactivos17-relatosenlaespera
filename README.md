@@ -141,6 +141,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Mario Alejandro Alzate López (www.marioalzatelopez.com)
 + Inmanulada Marruecos Payán (www.behance.net/inmarru)
 + Marta Felipe Soria 
++ Jonathan Ros 
 ### Autores e Interpretadores de los textos
 + Manuel de la Cruz (interprete)
 + Gonzalo Pendolema (interprete)
@@ -156,6 +157,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Osvaldo Michelón (autor e interprete)
 + Paloma Díez (autor)
 
+
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
@@ -163,10 +165,24 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + En qué puntos hay que tener cuidado
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga?
+Para apagar y encender la batería portátil es necesario es delcolgar el teléfono y acceder al botón de encendido y apagado, a través del agujero superior de dónde cualga el teléfono. Previo a esto para poder acceder más fácilmente al botón retirar el USB conectado a la misma batería. También cabe mencionar que el altavoz que está dentro del teléfono puede estar apagado o encendido. Para acceder al mismo habría que levantar la tapa superior del teléfono y pulsar de encendido/apagado, que está en la parte anterior del altavoz. Se puede comprobar que el altavoz está encendido porque puede verse una luz roja (encendido y cargando) o azul (encendido y no cargando).
+En caso de que la pantalla de la tablet estuviese bloqueada habría que acceder al botón de desbloqueo por el agujero superior de dónde cuelga el teléfono. Y posteriormente desbloquear la pantalla.
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
+
 ### Instrucciones de mantenimiento
-+ ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
++ ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuánto?
+Sí. La primera batería a tener en cuenta es la batería portátil que ya se indica anteriormente cómo encender y apagar.
+Para cargar esta batería es necesario acceder al puerto por el agujero superior de donde cuelaga el teléfono. Este puerto tiene denominación IN. El cable necesario es microUSB/enchufe o USB/enchufe.
+La batería tiene una duración aproximada de 5 horas. 
+Hay que cargarla todos los días; y se recomienda hacer el período de carga cuando no esté en uso y al final de cada día.
+Hay que tener el cuenta que esta batería suministra energía a tanto a la tablet como al altavoz del teléfono por tanto hay que tener en cuenta que la batería es vital para el correcto funcionamiento del dispositivo. Los cables necesarios para la carga de la tablet es miniUSB(tablet)/USB(batería portátil). Y para el altavoz del teléfono microUSB(altavoz)/USB(batería portátil)
+
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
+Para la exposición se ha considerado pegar cinta adhesiva azul: 
+- suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se 
+
+- expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor. 
+En la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y colocarse en el lugar que ese indica en el gráfico.
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
 
 # Diario del proceso
