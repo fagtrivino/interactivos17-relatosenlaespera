@@ -3,10 +3,10 @@
 - [1. Idea](#1-idea)
 - [2. Implementación](#2-implementación)
 - [2.1 Caso-a-estudiar](#2-2-caso-a-estudiar) 
-- [3 Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
-- [4 Tecnología](#4-tecnología)
-- [5 Experienc-ia de usuario](#5-experiencia-de-usuario)
-- [6 Diseño de producto](#6-diseño de producto) 
+- [3. Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
+- [4. Tecnología](#4-tecnología)
+- [5. Experienc-ia de usuario](#5-experiencia-de-usuario)
+- [6. Disenio de producto](#6-disenio de producto) 
 
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
