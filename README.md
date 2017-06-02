@@ -166,21 +166,45 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Cómo se ensambla todo
 + En qué puntos hay que tener cuidado
 ### Instrucciones de funcionamiento
-+ ¿Cómo se enciende? ¿Cómo se apaga?
-Para apagar y encender la batería portátil es necesario es delcolgar el teléfono y acceder al botón de encendido y apagado, a través del agujero superior de dónde cualga el teléfono. Previo a esto para poder acceder más fácilmente al botón retirar el USB conectado a la misma batería. También cabe mencionar que el altavoz que está dentro del teléfono puede estar apagado o encendido. Para acceder al mismo habría que levantar la tapa superior del teléfono y pulsar de encendido/apagado, que está en la parte anterior del altavoz. Se puede comprobar que el altavoz está encendido porque puede verse una luz roja (encendido y cargando) o azul (encendido y no cargando).
-En caso de que la pantalla de la tablet estuviese bloqueada habría que acceder al botón de desbloqueo por el agujero superior de dónde cuelga el teléfono. Y posteriormente desbloquear la pantalla.
++ ¿Cómo se enciende? ¿Cómo se apaga? 
+Para que el aparato se mantenga encendido el Tablet tiene que estar cargado. Para cargar el Tablet hay que desenchufar el Arduino que está conectado en el puerto micro USB inferior y conectarlo a un cargador Android. 
+Para que el altavoz que está dentro del teléfono se mantenga encendido tiene que estar conectado a la batería portable que está dentro de la caja. 
+Para que la batería que está dentro de la caja se mantenga encendida tiene que estar conectada con un cargador Android a la luz. 
+Para apagar y encender el tablet es necesario descolgar el teléfono y acceder al botón de encendido y apagado, a través del agujero superior de dónde cuelga el teléfono. Ahí hay un botón largo que es el volumen y otro botón más pequeño que es el encender-apagar. 
+Para apagar y encender la batería portable es necesario descolgar el teléfono y acceder al botón de encendido y apagado, a través del agujero superior de dónde cuelga el teléfono. Previo a esto para poder acceder más fácilmente al botón retirar el USB conectado a la misma batería. Se enciende una luz azul.
+Para apagar y encender el altavoz es necesario abrir la puerta superior del teléfono y pulsar el botón posterior. Se puede comprobar que el altavoz está encendido porque puede verse una luz roja (encendido y cargando) o azul (encendido y no cargando).
+
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
+Para poder interactuar con el aparato hay que cumplir con las siguientes condiciones con el orden indicado: 
+1.	La Tablet encendida y el altavoz encendido
+2.	El teléfono tiene que estar colgado para que el switch esté cerrado. 
+3.	La App “relatos en la espera” tiene que estar activa.
+4.	Conectar el Arduino en la Tablet. En el mensaje: “Allow the app Relatos en la Espera to acces the USB device” cliquear “Use by default for this USB device” y a continuación decir OK. 
+Una vez todas las condiciones previas cumplan puede empezar la interacción. 
+La primera pantalla de la app dice: “tenemos una historia que contarte” e invita el usuario a acercarse. 
+Al acercarse el usuario a los 60 cm o más cerca el sensor ultrasonido hace que se active la siguiente pantalla que dice: “Hola, te estoy llamando” e invita el usuario descolgar el teléfono que en este momento está sonando. 
+Al descolgar el usuario el teléfono que está sonando aparece directamente otra pantalla que pregunta: “¿Cuánto tiempo crees que vas a esperar?” y da la posibilidad al usuario a escoger un botón desde 1 minuto hasta más de 10 minutos. También se puede contestar “No lo sé”. Por el telefonillo se oye “Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que selecciones cuanto tiempo vas a esperar”.
+Al elegir un botón el usuario se pasa a una nueva pantalla que dice “escúchame”. Por el telefonillo se oye un relato que dura aproximadamente el tiempo de la espera que ha seleccionado el usuario. Esta pantalla sigue así durante todo el tiempo que se oye el relato. 
+Una vez acabado el relato aparece una pantalla que dice “FIN” e indica los créditos del relato “Titulo, Autor, Locutor”. Después de un corto tiempo sale automáticamente otra pantalla que dice “Hasta Luego” y pide al usuario volver a colgar el teléfono para que otro usuario pueda seguir interactuando con el aparato. 
+
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/instrucciones/funcionalidad_low.jpg)
 
 ### Instrucciones de mantenimiento
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuánto?
-Sí. La primera batería a tener en cuenta es la batería portátil que ya se indica anteriormente cómo encender y apagar.
-Para cargar esta batería es necesario acceder al puerto por el agujero superior de donde cuelaga el teléfono. Este puerto tiene denominación IN. El cable necesario es microUSB/enchufe o USB/enchufe.
-La batería tiene una duración aproximada de 5 horas. 
-Hay que cargarla todos los días; y se recomienda hacer el período de carga cuando no esté en uso y al final de cada día.
-Hay que tener el cuenta que esta batería suministra energía a tanto a la tablet como al altavoz del teléfono por tanto hay que tener en cuenta que la batería es vital para el correcto funcionamiento del dispositivo. Los cables necesarios para la carga de la tablet es miniUSB(tablet)/USB(batería portátil). Y para el altavoz del teléfono microUSB(altavoz)/USB(batería portátil)
+Para que el aparato se mantenga encendido el Tablet tiene que estar cargado. Para cargar el Tablet hay que desenchufar el Arduino que está conectado en el puerto micro USB inferior y conectarlo a un cargador Android. 
+Para que el altavoz que está dentro del teléfono se mantenga encendido tiene que estar conectado a la batería portable que está dentro de la caja. 
+Para que la batería que está dentro de la caja se mantenga encendida tiene que estar conectada con un cargador Android desde un micro USB a un enchufe. 
+El power-bank está conectado al altavoz. 
+10000 (mAh) power bank / 250 (mAh) altavoz = 40 cargas
+40 cargas x 45 minutos la carga = 1800 minutos (30 horas)
+Se recomienda hacer el período de carga tanto de la batería portable como de la Tablet cuando no esté en uso y al final de cada día. Aun así, la batería portable puede estar conectada también durante el uso del aparato. 
 
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
-Para la exposición se ha considerado pegar cinta adhesiva azul: 
+¿Utiliza materiales desechables? ¿tintas? ¿papel? Para la exposición se ha considerado pegar cinta adhesiva azul:
+•	suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se
+•	expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor. En la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y pegarse sobre un panel de cartón pluma que tendrá las mismas medidas. Se colocará en el lugar que ese indica en el gráfico.
+•	Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
+
 - suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se 
 
 - expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor. 
