@@ -5,7 +5,7 @@
 - [2.1 Caso-a-estudiar](#2-2-caso-a-estudiar) 
 - [3. Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
 - [4. Tecnología](#4-tecnología)
-- [5. Experienc-ia de usuario](#5-experiencia-de-usuario)
+- [5. Experiencia de usuario](#5-experiencia-de-usuario)
 - [6. Diseño de producto](#6-diseño-de-producto) 
 
 # Interactivos17-Relatos en la Espera  
