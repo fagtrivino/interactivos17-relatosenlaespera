@@ -1,4 +1,5 @@
-1. [Caso-a-estudiar](#2-2-caso-a-estudiar) 
+
+[1. Caso-a-estudiar](#2-2-caso-a-estudiar) 
 
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
