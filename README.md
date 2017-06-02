@@ -89,14 +89,20 @@ Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde 
 Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispositivo que con apariencia de teléfono permitiera narrar las historias y junto a él una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el t5 Experiencia de usuarioransporte.
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/sensor.jpg)
 
-El producto final ha necesitado de: 
-+ tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
-+ sensor de distancia
-+ arduino
-+ conexiones
-+ batería
+El producto final ha necesitado de los siguientes requerimiento técnicos: 
++ Tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
++ Sensor de distancia. Sensor de ultrasonido.[link](http://www.micropik.com/PDF/HCSR04.pdf)
++ Arduino Uno
++ Batería
++ Micro switch swap
++ Cable OTG
 
-Conexiones: 
+### 4.2 Lets code
+#### 4.2.1 [Android App](XXXXXXXXX) 
+#### 4.2.2 [Arduino y Sensores](XXXXXXXXXX)
+##### Diagrama esquemático
+
+XXXXXXXXXXXXXXXXXXXXXXDiagrama Esquemático:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## 5 Experiencia de usuario
 Dado el diseño del prototipo, la experiencia de usuario se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
