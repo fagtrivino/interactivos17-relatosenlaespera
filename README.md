@@ -90,11 +90,11 @@ Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un disp
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/sensor.jpg)
 
 El producto final ha necesitado de: 
-+ 1 tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
-+ 2 sensor de distancia
-+ 3 arduino
-+ 4 conexiones
-+ 5 batería
++ tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
++ sensor de distancia
++ arduino
++ conexiones
++ batería
 
 Conexiones: 
 
