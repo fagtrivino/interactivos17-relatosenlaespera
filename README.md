@@ -108,8 +108,7 @@ El producto final ha necesitado de los siguientes requerimiento técnicos:
 #### 4.2.1 [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
 #### 4.2.2 [Arduino y Sensores](XXXXXXXXXX)
 ##### Diagrama esquemático
-
-XXXXXXXXXXXXXXXXXXXXXXDiagrama Esquemático:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[i](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/relatosEsquematico.png)
 
 ## 5 Experiencia de usuario
 Dado el diseño del prototipo, la experiencia de usuario se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
