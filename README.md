@@ -105,7 +105,7 @@ El producto final ha necesitado de los siguientes requerimiento técnicos:
 + Cable OTG
 
 ### 4.2 Lets code
-#### 4.2.1 [Android App](XXXXXXXXX) 
+#### 4.2.1 [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
 #### 4.2.2 [Arduino y Sensores](XXXXXXXXXX)
 ##### Diagrama esquemático
 
