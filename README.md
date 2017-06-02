@@ -88,8 +88,10 @@ Título / Autor / Intérprete / Duranción:
 + 12 En un minuto /	Bernardo Gómez ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/En%20un%20minuto.mp3)
 + 13 Bolsa para la compra /	Isabel Martín Ruiz / Isabel Martín Ruiz, Damiana Ruiz ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Bolsa%20para%20la%20compra.mp3)
 + 14 Dos minutos /	MaxCooper /	Monica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Dos%20Minutos.mp3)
-+ 15 Un fantasma en Zingarella /	Osvaldo Michelón / Osvaldo Michelón ![AudioXXXXX](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Un%20Fantasma%20en%20Zingarella.mp3)
-+ 16  
++ 15 Un fantasma en Zingarella /	Osvaldo Michelón / Osvaldo Michelón ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Un%20Fantasma%20en%20Zingarella.mp3)
++ 16 Por sorpresa/ Aurora Moreno López/ Marta Felipe Soria / ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Por%20sorpresa.mp3)
++ 17 Esperando tu espera/ Aurora Moreno López/ Marta Felipe Soria / ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Esperando%20tu%20espera.mp3) 
++ 18 Algo nuevo/ Aurora Moreno López/ Marta Felipe Soria / ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Algo%20nuevo.mp3)
 
 ## 4 Tecnología 
 Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no ha sido factible por la deslocalización del lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más óptima: una vibración del móvil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es excesivamente complejo.
