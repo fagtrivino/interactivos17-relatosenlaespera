@@ -8,8 +8,8 @@
 - [5. Experiencia de usuario](#5-experiencia-de-usuario)
 - [6. Diseño de producto](#6-diseño-de-producto) 
 - [Promotores y colaboradores](#promotores-y-colaboradores)
-- [Instrucciones](#Instrucciones)
-- [Diario del proceso](#Diario del proceso)
+- [Instrucciones](#instrucciones)
+- [Diario del proceso](#diario del proceso)
 
 
 
