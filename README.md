@@ -106,7 +106,7 @@ El producto final ha necesitado de los siguientes requerimiento técnicos:
 
 ### 4.2 Lets code
 #### 4.2.1 [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
-#### 4.2.2 [Arduino y Sensores](XXXXXXXXXX)
+#### 4.2.2 [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.inoX)
 ##### Diagrama esquemático
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/relatosEsquematico.png)
 
