@@ -7,6 +7,11 @@
 - [4. Tecnología](#4-tecnología)
 - [5. Experiencia de usuario](#5-experiencia-de-usuario)
 - [6. Diseño de producto](#6-diseño-de-producto) 
+- [Promotores y colaboradores](#promotores-y-colaboradores)
+- [Instrucciones](#Instrucciones)
+- [Diario del proceso](#Diario del proceso)
+
+
 
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
