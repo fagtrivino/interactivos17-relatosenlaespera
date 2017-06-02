@@ -99,7 +99,7 @@ Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un disp
 
 El producto final ha necesitado de los siguientes requerimiento técnicos: 
 + Tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
-+ Sensor de distancia. Sensor de ultrasonido.[link](http://www.micropik.com/PDF/HCSR04.pdf)
++ Sensor de distancia. [Sensor de ultrasonido](http://www.micropik.com/PDF/HCSR04.pdf)
 + Arduino Uno
 + Batería
 + Micro switch swap
