@@ -9,7 +9,7 @@
 - [6. Diseño de producto](#6-diseño-de-producto) 
 - [Promotores y colaboradores](#promotores-y-colaboradores)
 - [Instrucciones](#instrucciones)
-- [Diario del proceso](#diario del proceso)
+- [Diario del proceso](#diario-del-proceso)
 
 
 
