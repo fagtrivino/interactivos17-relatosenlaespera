@@ -1,5 +1,12 @@
 
-[1. Caso-a-estudiar](#2-2-caso-a-estudiar) 
+[0. Interactivos17-Relatos en la Espera]
+[1. Idea](#1-idea)
+[2. Implementación](#2-implementación)
+[2.1 Caso-a-estudiar](#2-2-caso-a-estudiar) 
+[3 Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
+[4 Tecnología](#4-tecnología)
+[5 Experiencia de usuario](#5-experiencia-de-usuario)
+[6 Diseño de producto](#6-diseño de producto) 
 
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
@@ -79,7 +86,7 @@ Título / Autor / Intérprete / Duranción:
 ## 4 Tecnología 
 Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no ha sido factible por la deslocalización del lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más óptima: una vibración del móvil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es excesivamente complejo.
 
-Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispositivo que con apariencia de teléfono permitiera narrar las historias y junto a él una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.
+Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispositivo que con apariencia de teléfono permitiera narrar las historias y junto a él una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el t5 Experiencia de usuarioransporte.
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/sensor.jpg)
 
 El producto final ha necesitado de: 
